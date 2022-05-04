@@ -1,0 +1,6 @@
+Additions:
+	- Added most of part 2 
+	- Made it so sheep can randomly run, meaning they will go faster than the rest
+	- Cart doesnt move with a fixed speed. Instead it accelerates/decelerates so its harder to control (if not in my
+	  opinion it was too easy)
+	- Added a line so you can see where you will shoot
